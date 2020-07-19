@@ -1,0 +1,22 @@
+$MeshFormat
+2.2 0 8
+$EndMeshFormat
+$PhysicalNames
+10
+1 5 "right_boundary"
+1 6 "bottom_boundary"
+1 7 "left_boundary"
+1 8 "top_boundary"
+1 9 "v_inflow"
+1 10 "v_outflow"
+2 1 "wall_domain"
+2 2 "p_domain"
+2 3 "v_domain"
+2 4 "interface_domain"
+$EndPhysicalNames
+$Nodes
+0
+$EndNodes
+$Elements
+0
+$EndElements
