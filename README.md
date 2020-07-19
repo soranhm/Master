@@ -2,10 +2,6 @@
 
 ## Modeling of Blood Flow in Zebrafish With Cancer
 
-<p align="center">
-  <b>### Abstract</b><br>
-</p>
-
 For decades, the improvement of cancer research has relied on in vivo representations
 for analyzing cancer development and treatment. Particularly, one of
 the main reasons why zebrafishes are suitable for studying a wide variety of cancer
