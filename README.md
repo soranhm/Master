@@ -38,4 +38,4 @@ them with available experimental data.
 * Matlab
 * ImageJ
   * Used for scaling.
-* THIS PROJECT FOLDER IS UNDER CONSTRUCTION
+* THIS REPOSITORI IS UNDER CONSTRUCTION
